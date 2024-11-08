@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @tagada18
-- 👀 I’m interested in video game(2d, 3d creation, game desing)
-- 🌱 I’m currently learning the c# for unity
-- 💞️ I’m looking to collaborate on video game
-- 📫 How to reach me @Tagada for my pixilart/tagada1824 for my discord
+i do music and video game 😑-
+@Tagada pixilart
+tagada1824 discord
+@kc_tagada insta
 
 <!---
 tagada18/tagada18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
